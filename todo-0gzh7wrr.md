@@ -1,0 +1,40 @@
+# Refinamento de paleta — sessão atual
+
+- [x] Aplicar fundo preto e tipografia amarela aos discos de rota, conforme a referência.
+- [x] Conferir contraste dos estados de interação em desktop e celular.
+- [ ] Registrar a atualização em um novo checkpoint.
+- [x] Aplicar fundo preto exclusivamente na área da logomarca principal.
+- [ ] Confirmar que o restante do cabeçalho permanece inalterado.
+- [x] Remover o fundo preto aplicado à logomarca principal.
+- [x] Revisar as proporções do cabeçalho, hero e botões circulares.
+- [x] Ajustar tamanhos para computador e celular.
+- [x] Validar a hierarquia visual após os ajustes.
+- [x] Organizar as fotos enviadas e identificar os veículos retratados.
+- [x] Criar a nova opção de IA na lista de serviços.
+- [x] Construir a seção de carros que já passaram pela SUPRA.
+- [x] Validar a galeria em computador e celular.
+- [x] Preparar a nova foto da fachada para publicação.
+- [x] Substituir exclusivamente a imagem 13 na galeria.
+- [x] Validar o novo enquadramento da fachada.
+- [x] Remover o cartão 08 — IA Aplicada — da lista de serviços.
+- [x] Confirmar que os demais serviços permanecem inalterados.
+- [x] Preparar as duas fotos de cada serviço para publicação.
+- [x] Integrar as fotos aos cartões 01 a 06.
+- [x] Validar a leitura dos cartões com imagens em computador e celular.
+- [x] Remover todas as referências a preços da área de catálogo.
+- [x] Criar a rota técnica de consulta e encaminhamento.
+- [x] Validar a nova experiência em computador e celular.
+- [x] Adicionar o botão flutuante de WhatsApp.
+- [x] Validar seu posicionamento em computador e celular.
+- [x] Preparar a imagem fornecida para o botão de WhatsApp.
+- [x] Aplicar e validar o novo ícone no botão flutuante.
+- [x] Redesenhar os cartões como banners visuais de serviço.
+- [x] Adaptar os banners para computador e celular.
+- [x] Validar a legibilidade dos textos, fotos e CTAs.
+- [x] Remover a sobreposição amarela das fotos dos banners.
+- [x] Validar a nitidez e o contraste dos banners atualizados.
+- [x] Criar a habilidade reutilizável do fluxo visual para oficinas automotivas.
+- [x] Validar e entregar o pacote da habilidade.
+- [x] Verificar alinhamento em desktop, tablet e celular.
+- [x] Corrigir eventuais desalinhamentos responsivos — nenhum ajuste crítico foi necessário.
+- [x] Confirmar a responsividade final.
